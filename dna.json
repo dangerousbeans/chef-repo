@@ -12,22 +12,7 @@
   },
   "gems": [
     { "name": "rake" },
-    { "name": "rails" },
-    { "name": "bundler" },
-    { "name": "paperclip" },
-    { "name": "chronic" },
-    { "name": "coderay" },
-    { "name": "mysql" },
-    { "name": "newrelic_rpm" },
-    { "name": "rack" },
-    { "name": "rack-cache" },
-    { "name": "rakismet" },
-    { "name": "RedCloth" },
-    { "name": "ruby-openid" },
-    { "name": "will_paginate" },
-    { "name": "cucumber" },
-    { "name": "rspec" },
-    { "name": "rspec-rails" }
+    
   ],
   "apps": [ 
     { 
