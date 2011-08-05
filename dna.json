@@ -52,6 +52,6 @@
     }
   },
   "recipes": [
-    "postgresql"
-  ]
+    "postgresql",
+    "postgresql::server"
 }
