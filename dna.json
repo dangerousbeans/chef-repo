@@ -56,7 +56,6 @@
     "postgresql::server",
 	"apache2",
 	"passenger_apache2",
-	"passenger",
 	"ruby",
 	"rails",
 	"god"
